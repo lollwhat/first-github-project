@@ -1,1 +1,0 @@
-Hey! This will my first github reposition that I have launched from Visual Studio Code itself. I am not really proud about the website itself, but this is just another basic project that lets me improve myself on git and github. Thanks for reading anyways!
